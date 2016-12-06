@@ -17,7 +17,7 @@ When your folder is created go to your command prompt and go to the folder locat
 After that you enter the command "git init" this makes the folder a github folder.<br />
 <br />
 <b>4. Find a project you like to use or create your own</b><br />
-When you have found or created a github project, you click on the green button called "Clone or download" and you copy the provided link.<br />
+When you have found or created a github project, you click on the green button called "Clone or download" and you copy this link: https://github.com/HighSounDD/php-inloggning.<br />
 You go back to your command prompt and go to your github folder location.<br />
 Run this command "git clone copiedlink"<br />
 This will copy the entire project to your github folder.<br />
