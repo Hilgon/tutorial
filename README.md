@@ -25,6 +25,11 @@ Voila, now you have the entire project on your workstation.<br />
 <br />
 
 
+<b>If this doesn't work for you to find the command line you can also try this.</b><br />
+Click on windows icon left in the corner you type in cmd, then click on cmd with your right mouse button than you click on start up as administrator than cmd will start up. Know we need to type in the commands to get the project php-inloggning link: https://github.com/HighSounDD/php-inloggning. in your git map
+
+
+
 <h2> FAQ </h2>
 <b>What do you do if a project gets updated?</b><br />
 When a project gets updated you open up your command prompt and go to your github folder location by using the command "cd".<br />
