@@ -19,7 +19,7 @@ After that you enter the command "git init" this makes the folder a github folde
 <img src="img/screen3.jpg" width="50%">
 <br />
 <b>4. Find a project you like to use or create your own</b><br />
-When you have found or created a github project, you click on the green button called "Clone or download" and you copy the provided link.<br />
+When you have found or created a github project, you click on the green button called "Clone or download" and you copy this link: https://github.com/HighSounDD/php-inloggning.<br />
 You go back to your command prompt and go to your github folder location.<br />
 Run this command "git clone copiedlink"<br />
 This will copy the entire project to your github folder. <br> <br />
@@ -31,6 +31,11 @@ Voila, now you have the entire project on your workstation.<br />
 Click on windows icon left in the corner you type in cmd, then click on cmd with your right mouse button than you click on start up as administrator than cmd will start up. Now we need to type in the commands to get the project php-inloggning link: <b>https://github.com/HighSounDD/php-inloggning</b> in your git map. Go to you cms and type in cd \ that means that you are going to chose where you want to place the file <b>"php-inloggning"</b>. now you type the folder name in for example this is the folder where you want to place the project in <b>"C:\Users\Hilgon\Desktop\github"</b> than you need to type in your cmd <b>"cd Users\Hilgon\Desktop\github"</b> you have know selected the map Github. after that you type the in <b>"git clone"</b> after that you type the name of the project we take the project <b>"php-inloggning"</b> what your going to do is go to the project and click on clone or download than you see the <b>link:https://github.com/HighSounDD/php-inloggning.git</b> type this link after git clone  like this <b>"git clone https://github.com/HighSounDD/php-inloggning.git"</b> if you enter you have create your own project. <br>
 
 <img src="img/uitleg.png" width="50%" height="50%"> <br>
+
+<b>If this doesn't work for you to find the command line you can also try this.</b><br />
+Click on windows icon left in the corner you type in cmd, then click on cmd with your right mouse button than you click on start up as administrator than cmd will start up. Now we need to type in the commands to get the project php-inloggning link: <b>https://github.com/HighSounDD/php-inloggning</b> in your git map. Go to you cms and type in cd \ that means that you are going to chose where you want to place the file <b>"php-inloggning"</b>. now you type the folder name in for example this is the folder where you want to place the project in <b>"C:\Users\Hilgon\Desktop\github"</b> than you need to type in your cmd <b>"cd xampp\htdocs\GitHub"</b> you have know selected the map Github. after that you type the in <b>"git clone"</b> after that you type the name of the project we take the project <b>"php-inloggning"</b> what your going to do is go to the project and click on clone or download than you see the <b>link:https://github.com/HighSounDD/php-inloggning.git</b> type this link after git clone  like this <b>"git clone https://github.com/HighSounDD/php-inloggning.git"</b> if you enter you have create your own project.
+
+
 
 <h2> FAQ </h2>
 <b>What do you do if a project gets updated?</b><br />
